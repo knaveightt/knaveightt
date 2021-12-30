@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @knaveightt
+- 👀 I’m interested in 90s things, Programming (duh), video games, magic tricks and music
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me: knaveightt@totalknavery.com
